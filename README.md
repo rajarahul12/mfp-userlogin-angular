@@ -1,5 +1,5 @@
 ## MFP UserLogin Angular
-A sample web application on Angular 6 demonstrating use of the CredentialsValidation Security Check of MobileFirst Platform Foundation.
+A sample web application on Angular 10 demonstrating use of the CredentialsValidation Security Check of MobileFirst Platform Foundation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
